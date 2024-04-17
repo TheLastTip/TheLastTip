@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jordanrhiggins"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate with 3 + years experience in IT. Who love sloving complex problems.
+I am a recent graduate with 3+ years experience in IT. Who love sloving complex problems.
 
 ## Objective
 
